@@ -1,6 +1,6 @@
 # MURCS
 
-MURCS - Multi Use Robot Construction System
+[MURCS](https://github.com/robotfreak/MURCS) - Multi Use Robot Construction System
 
 ##Introduction
 
@@ -12,8 +12,10 @@ MURCS is an abbreviation for Multi Use Robot Construction Kit. Laser cutted part
 
 ##Videos
 
+[![MURCS - Intro](https://i.ytimg.com/vi/wWR0MOrcImI/2.jpg?time=1427321715593)](https://www.youtube.com/watch?v=wWR0MOrcImI) 
+
 ##Weblinks
 
-[![MURCS - Intro](https://i.ytimg.com/vi/wWR0MOrcImI/2.jpg?time=1427321715593)](https://www.youtube.com/watch?v=wWR0MOrcImI) MURCS - Intro
-
+* [Letsmakerobots - MURCS Preview](http://letsmakerobots.com/blog/robotfreak/murcs-sneak-preview)
+* [Letsmakerobots - MURtle, drawing robot](http://letsmakerobots.com/node/37495)
 
